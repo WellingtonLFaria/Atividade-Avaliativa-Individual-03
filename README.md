@@ -7,6 +7,11 @@ Crud usando Node
 npm i
 ```
 
+## Rodando a aplicação
+```bash
+npm start
+```
+
 ## Senha do MYSQL
 
 É necessário alterar a senha para a mesma senha do MYSQL na máquina.
